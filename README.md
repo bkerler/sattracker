@@ -1,11 +1,8 @@
-# Sattracker
-Standalone Satellite Tracker Project
-(c) B. Kerler 2020
-Licensed under MIT
+# Sattracker - Standalone Satellite Tracker Project, (c) B. Kerler 2020
+ Licensed under MIT
 
-## What is this about:
+## What this is about:
 Creating a device to display satellite names and positions by pointing at them at the sky, and for helping to point satellite dishes/antennas to the right spot using a standalone offline device, based on daily tle database data.
-
 
 ## Hardware
 - Esp32 WRoom DevC
@@ -20,8 +17,7 @@ Creating a device to display satellite names and positions by pointing at them a
 - 5V Power via battery pack connected using ESP32 microusb or external power regulator
 
 ## Installation
-
-- I recommend flashing my freshly built esp32-idf3 firmware, or use 1.12 instead
+I recommend flashing my freshly built esp32-idf3 firmware, or use 1.12 instead
 
 - Flash using:
 
